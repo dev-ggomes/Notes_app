@@ -18,8 +18,8 @@ body {
 .wrapper {
   position: relative;
   width: 420px;
-  border: 2px solid black;
-  background-color: wheat;
+  border: 2px solid brown;
+  background-color: white;
 }
 .heading {
   height: 8vh;
@@ -43,7 +43,7 @@ body {
   /* border: 1px solid white; */
 }
 .heading .leftitem p {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
 }
 .heading .rightitem {
@@ -54,7 +54,7 @@ body {
   /* border: 1px solid white; */
   margin-right: 10px;
   gap: 25px;
-  padding: 0.3rem;
+  padding: 0.4em;
 }
 .heading .leftitem .fa-reorder {
   cursor: pointer;
@@ -82,7 +82,7 @@ body {
   justify-content: flex-start;
   width: 50%;
   align-items: center;
-  margin-left: 10px;
+  margin-left: 14px;
   gap: 30px;
   padding: 0.3rem;
 }
@@ -98,7 +98,7 @@ body {
 font-size: 18px;
   margin-right: 10px;
   gap: 25px;
-  padding: 0.3rem;
+  padding: 0.4rem;
   cursor: pointer;
 }
 .secondheading .leftitem .fa-arrow-left {
